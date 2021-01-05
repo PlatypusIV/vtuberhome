@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vtuberhome/static/css/main.b97e889c.chunk.css",
+    "main.js": "/vtuberhome/static/js/main.cd960d97.chunk.js",
+    "main.js.map": "/vtuberhome/static/js/main.cd960d97.chunk.js.map",
+    "runtime-main.js": "/vtuberhome/static/js/runtime-main.a4a38c0e.js",
+    "runtime-main.js.map": "/vtuberhome/static/js/runtime-main.a4a38c0e.js.map",
+    "static/js/2.afe523e4.chunk.js": "/vtuberhome/static/js/2.afe523e4.chunk.js",
+    "static/js/2.afe523e4.chunk.js.map": "/vtuberhome/static/js/2.afe523e4.chunk.js.map",
+    "index.html": "/vtuberhome/index.html",
+    "precache-manifest.9e66695e340ff9146890a1db242cce6d.js": "/vtuberhome/precache-manifest.9e66695e340ff9146890a1db242cce6d.js",
+    "service-worker.js": "/vtuberhome/service-worker.js",
+    "static/css/main.b97e889c.chunk.css.map": "/vtuberhome/static/css/main.b97e889c.chunk.css.map",
+    "static/js/2.afe523e4.chunk.js.LICENSE.txt": "/vtuberhome/static/js/2.afe523e4.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/vtuberhome/static/media/VtuberHomeLogo1.97864e81.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4a38c0e.js",
+    "static/js/2.afe523e4.chunk.js",
+    "static/css/main.b97e889c.chunk.css",
+    "static/js/main.cd960d97.chunk.js"
+  ]
+}
