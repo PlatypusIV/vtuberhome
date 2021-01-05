@@ -1,0 +1,47 @@
+nav{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.btnWebsiteLinks{
+    background: transparent;
+    color: #fff;
+    border: none;
+    outline: none;
+}
+
+.navMainNavBar .btnWebsiteLinks{
+    font-size: 30px;
+    padding: 6px;
+}
+
+.navMainNavBar div{
+    font-size: 30px;
+    
+}
+
+.formLanguageSelect{
+    color: white;
+    font-size: 30px;
+    padding:6px;
+}
+
+.navMainNavBar a:hover{
+    background-color: rgb(192, 192, 192);
+    color: rgb(54, 0, 0);
+    text-decoration: none;
+}
+
+.navMainNavBar{
+    background: black;
+    display: flex;
+    flex-direction: row;
+    min-height:40px;
+}
+
+.aWebsiteLinks{
+    color: white;
+    margin: 2px;
+}

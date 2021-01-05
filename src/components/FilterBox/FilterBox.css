@@ -1,0 +1,99 @@
+.invisible{
+    display: none;
+}
+
+.divMainFilter{
+    background-color: transparent;
+}
+
+.btnFilterOpenClose{
+    background: black;
+    color: white;
+    border: transparent;
+    height: 50px;
+    width: 100px;
+    font-size: 30px;
+    margin: 4px;
+}
+
+.divAddFilter{
+    background: black;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    left: 0;
+    width: 0;
+    z-index: 1;
+    overflow-y:scroll;
+}
+
+.divFilterOpen{
+    max-width: 300px;
+}
+
+.divFilterClosed{
+    display: none;
+}
+
+.divAddFilterHeader{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    background:black;
+    color:white;
+    margin-bottom: 4px;
+}
+
+.divAddFilterFooter{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    background:black;
+    color:white;
+    margin-top: 4px;
+}
+
+.divFilterItem{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    background:#f3f0ec;
+    color:black;
+    margin: 2px;
+}
+
+.inputFilterValue{
+    font-size: 12px;
+    max-width: 100px;
+}
+
+.divComparisonInput{
+    display: flex;
+    flex-direction: row;
+}
+/* 
+.inputComparisonOperator{
+    
+} */
+
+.btnRemoveFilter{
+    background:#d37556;
+    border: none;
+    border-radius: 10px;
+    max-height: 30px;
+    max-width: 30px;
+}
+
+.btnFilterButtons{
+    background:#d37556;
+    border: none;
+    border-radius: 10px;
+    max-height: 30px;
+    max-width: 30px;
+    
+}
+
+/*
+TODO
+Style video and subcount filter boxes
+*/

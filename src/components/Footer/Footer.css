@@ -1,0 +1,14 @@
+.footerMain{
+    background: black;
+    min-height: 35px;
+    display: flex;
+}
+
+.textForFooter{
+    color: white;
+}
+
+.textBlock{
+    display: flex;
+    flex-direction: column;
+}

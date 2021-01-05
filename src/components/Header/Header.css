@@ -1,0 +1,5 @@
+.divHeaderImg{
+    background: url("..\\..\\images\\VtuberHomeLogo1.png") no-repeat center;
+    min-height: 350px;
+    background-size: 100%;
+}

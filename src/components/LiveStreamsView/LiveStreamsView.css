@@ -1,0 +1,5 @@
+.divLiveStreamView{
+    height: 100%;
+    background:lightblue;
+    overflow-y: scroll;
+}

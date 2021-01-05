@@ -1,0 +1,17 @@
+.divVtuberList{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding:4px;
+    
+    
+}
+
+.divPresentationRow{
+    display:flex;
+}
+
+.divFilterBoxContainer{
+    z-index: 2;
+    max-width: 500px;
+}

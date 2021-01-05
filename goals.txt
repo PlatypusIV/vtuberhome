@@ -1,0 +1,97 @@
+add bootstrap ++
+
+vtuberListItemComponent
+    With pictures ++
+
+livestream view
+
+remake names +
+
+improve navbar
+    Spread buttons out evenly
+    language to the right <--- get this done
+
+random view
+
+currently live view
+    carousel with currently live vtuber
+
+
+favorites view
+    "You have no favorites! Please choose some streamers you like from the homepage."
+
+about view
+
+footer at the bottom of the screen ++++
+
+fix group tags in testCollection+++++
+
+open card logic????
+
+日本語
+
+favorite on show preferences onMountComponenet
+
+glitch that when remopving favorites from favorites tab, checkboxes empty out and no longer seem to be favorited
+
+
+
+filter options
+    filter will be a modal from the side
+
+FIX STATE MANAGEMENT ISSUE!
+    It does A LOT of uneccessary operations
+
+
+Change links in navbar to buttons and stylize
+
+Favorite button
+
+Center random view
+
+Random view background colorschemes
+
+Center about view
+
+Fix white bit on main view
+
+comments with popup maybe?
+
+
+
+
+
+colorschemes:
+    #051622
+    #1BA098
+    #DEB992
+
+    --
+
+    #E60576
+
+    --
+    #071013
+    #EB5160
+    #8661C1
+
+    --
+
+    #ACADBC
+    #9b9ece
+    #6665dd
+    #473bf0
+    #000500
+
+    --
+    #03256c
+    #2541b2
+    #1768ac
+    #06bee1
+    #ffffff
+
+
+    #000000
+    #051622
+    #181818
+    #5626C4

@@ -1,0 +1,30 @@
+.divMainRandomView{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.divGroupBar{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.divGroupCardBar{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.buttonRandomize{
+    max-width: 400px;
+    background:#d37556;
+    border: none;
+    border-radius: 10px;
+    min-width: 200px;
+    min-height: 25px;
+    font-size: 20px;
+    margin: 10px;
+}
