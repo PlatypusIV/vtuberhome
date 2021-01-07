@@ -1,6 +1,6 @@
 {
   "name": "vtuber_website",
-  "homepage":"http://PlatypusIV.github.io/vtuberhome",
+  "homepage":"https://PlatypusIV.github.io/vtuberhome",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

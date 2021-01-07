@@ -34,6 +34,7 @@ favorite on show preferences onMountComponenet
 
 glitch that when remopving favorites from favorites tab, checkboxes empty out and no longer seem to be favorited
 
+add material UI
 
 
 filter options
@@ -57,7 +58,11 @@ Fix white bit on main view
 
 comments with popup maybe?
 
+number string separator (subcount)
 
+nav button visual onhover
+
+about page
 
 
 
