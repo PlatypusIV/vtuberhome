@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "442d96240a147e017d90b41885d515ab",
+    "revision": "593d79530f18c6c21c4e5130e14ba60d",
     "url": "/vtuberhome/index.html"
   },
   {
-    "revision": "5191b8fe449e3a77a99d",
+    "revision": "2fcd9324b803b39b7bec",
     "url": "/vtuberhome/static/css/main.06d9c600.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vtuberhome/static/js/2.afe523e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5191b8fe449e3a77a99d",
-    "url": "/vtuberhome/static/js/main.d91e712e.chunk.js"
+    "revision": "2fcd9324b803b39b7bec",
+    "url": "/vtuberhome/static/js/main.bd224d08.chunk.js"
   },
   {
     "revision": "b862ff4f209d679bfaa8",
