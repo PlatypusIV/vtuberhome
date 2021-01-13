@@ -12,6 +12,13 @@ nav{
     outline: none;
 }
 
+.btnWebsiteLinks:hover{
+    background: white;
+    color: black;
+    border: none;
+    outline: none;
+}
+
 .navMainNavBar .btnWebsiteLinks{
     font-size: 30px;
     padding: 6px;

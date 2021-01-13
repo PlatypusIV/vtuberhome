@@ -27,6 +27,7 @@ export default class Nav extends React.Component {
                 {/* <button className="btnWebsiteLinks" onClick={(e) => this.selectView(e, "currentlyLive")}>Currently Live</button> */}
                 <button className="btnWebsiteLinks" onClick={(e) => this.selectView(e, "favorites")}>Favorites</button>
                 {/* <button className="btnWebsiteLinks" onClick={(e) => this.selectView(e, "rankings")}>Rankings</button> */}
+                {/* <button className="btnWebsiteLinks" onClick={(e) => this.selectView(e, "memes")}>Memes</button> */}
                 {/* <button className="btnWebsiteLinks" onClick={(e) => this.selectView(e, "about")}>About</button> */}
             </div>
         </nav>)
