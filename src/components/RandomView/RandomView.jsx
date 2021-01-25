@@ -127,25 +127,25 @@ export default class RandomView extends React.Component {
                 </button>
             </div>
             <div className="divGroupBar">
-                <div>
+                {/* <div>
                     <span>Hololive</span>
-                </div>
+                </div> */}
                 <div className="divGroupCardBar">
                     {this.showCards(this.state.hololive)}
                 </div>
             </div>
             <div className="divGroupBar">
-                <div>
+                {/* <div>
                     <span>Nijisanji</span>
-                </div>
+                </div> */}
                 <div className="divGroupCardBar">
                     {this.showCards(this.state.nijisanji)}
                 </div>
             </div>
             <div className="divGroupBar">
-                <div>
+                {/* <div>
                     <span>Independent</span>
-                </div>
+                </div> */}
                 <div className="divGroupCardBar">
                     {this.showCards(this.state.independent)}
                 </div>

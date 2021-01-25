@@ -64,6 +64,8 @@ nav button visual onhover
 
 about page
 
+random page headers design and fix
+
 
 
 colorschemes:
