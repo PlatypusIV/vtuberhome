@@ -13,6 +13,36 @@ const filterByName = (array, filter) => {
 
 }
 
+const filterByPlatform = (array, filter) => {
+    let filteredArray = [];
+    try {
+        filteredArray = array.filter(vtuber => vtuber.platform.toLowerCase().includes(filter.value.toLowerCase()));
+
+    } catch (error) {
+        console.log(error);
+    }
+    if (filteredArray.length !== 0) {
+        return filteredArray;
+    }
+    return array;
+
+}
+
+const filterBySex = (array, filter) => {
+    let filteredArray = [];
+    try {
+        filteredArray = array.filter(vtuber => vtuber.gender.toLowerCase().includes(filter.value.toLowerCase()));
+
+    } catch (error) {
+        console.log(error);
+    }
+    if (filteredArray.length !== 0) {
+        return filteredArray;
+    }
+    return array;
+
+}
+
 const filterByGroup = (array, filter) => {
     let filteredArray = [];
     try {
@@ -83,6 +113,12 @@ const filterArray = (array, filters) => {
                         break;
                     case "group":
                         newArray = filterByGroup(newArray, filters[i]);
+                        break;
+                    case "platform":
+                        newArray = filterByPlatform(newArray, filters[i]);
+                        break;
+                    case "sex":
+                        newArray = filterBySex(newArray, filters[i]);
                         break;
                     default:
                         break;

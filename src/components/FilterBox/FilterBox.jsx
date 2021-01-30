@@ -169,6 +169,24 @@ export default class FilterBox extends React.Component {
                         </input>
                     </div>;
                     break;
+                case "platform":
+                    inputToReturn = <select name="groupFilterOptions"
+                        className="inputFilterValue"
+                        defaultValue="youtube"
+                        onChange={(e) => this.changeFilterValue(e.target.value, filter.id)}>
+                        <option value="youtube">youtube</option>
+                        <option value="twitch">twitch</option>
+                    </select>
+                    break;
+                case "sex":
+                    inputToReturn = <select name="groupFilterOptions"
+                        className="inputFilterValue"
+                        defaultValue="female"
+                        onChange={(e) => this.changeFilterValue(e.target.value, filter.id)}>
+                        <option value="f">female</option>
+                        <option value="m">male</option>
+                    </select>
+                    break;
                 default:
                     break;
             }
@@ -191,6 +209,8 @@ export default class FilterBox extends React.Component {
                         <option value="group">Group</option>
                         <option value="subCount">Sub count</option>
                         <option value="videoCount">Video count</option>
+                        <option value="platform">Platform</option>
+                        <option value="sex">Sex</option>
                     </select>
                     {this.changeFilterVisual(filter)}
                     <button className="btnFilterButtons" onClick={() => { this.removeFilter(filter.id) }}>x</button>
@@ -205,7 +225,7 @@ export default class FilterBox extends React.Component {
     render() {
         return (
             <div className="divMainFilter">
-                <button className={this.state.amOpen ?"invisible":"btnFilterOpenClose"} onClick={this.openCloseFilter}>Filter</button>
+                <button className={this.state.amOpen ? "invisible" : "btnFilterOpenClose"} onClick={this.openCloseFilter}>Filter</button>
                 <div className={this.state.amOpen ? "divFilterOpen" : "divFilterClosed"}>
                     <div className="divAddFilterHeader">
                         <label>Add filter</label>
