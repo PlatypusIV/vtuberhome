@@ -68,6 +68,8 @@ random page headers design and fix
 
 on hover over element, if comment exists on vtuber, then show tooltip
 
+sort up/down
+
 
 colorschemes:
     #051622
