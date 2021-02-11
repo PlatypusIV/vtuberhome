@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vtuberhome/precache-manifest.d9ca2f4c376842708d10d1e4efbf51c9.js"
+  "/vtuberhome/precache-manifest.3a6944c6dce1f673a1223d135b36ce1e.js"
 );
 
 self.addEventListener('message', (event) => {
