@@ -105,3 +105,8 @@ colorschemes:
     #051622
     #181818
     #5626C4
+
+
+-----
+
+Groups introduction tab
