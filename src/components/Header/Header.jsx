@@ -8,7 +8,8 @@ export default class Header extends React.Component {
     render() {
         return (<div>
             <header >
-                <div className="divHeaderImg"><img src={masterPiece} id="imgMainHeaderImage"/>
+                <div className="divHeaderImg">
+                    <img src={masterPiece} id="imgMainHeaderImage"/>
                     <img src={smolMasterPiece} id="imgSmolHeaderImage"/>
                 </div>
             </header>
