@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vtuberhome/static/css/main.232343a4.chunk.css",
-    "main.js": "/vtuberhome/static/js/main.f4412080.chunk.js",
-    "main.js.map": "/vtuberhome/static/js/main.f4412080.chunk.js.map",
+    "main.js": "/vtuberhome/static/js/main.b5d76584.chunk.js",
+    "main.js.map": "/vtuberhome/static/js/main.b5d76584.chunk.js.map",
     "runtime-main.js": "/vtuberhome/static/js/runtime-main.a4a38c0e.js",
     "runtime-main.js.map": "/vtuberhome/static/js/runtime-main.a4a38c0e.js.map",
     "static/js/2.ff005e14.chunk.js": "/vtuberhome/static/js/2.ff005e14.chunk.js",
     "static/js/2.ff005e14.chunk.js.map": "/vtuberhome/static/js/2.ff005e14.chunk.js.map",
     "index.html": "/vtuberhome/index.html",
-    "precache-manifest.3d2581f9740a84667b5a1aab73a4cfcd.js": "/vtuberhome/precache-manifest.3d2581f9740a84667b5a1aab73a4cfcd.js",
+    "precache-manifest.28ad143c64e8ab00eeca383dc4d36884.js": "/vtuberhome/precache-manifest.28ad143c64e8ab00eeca383dc4d36884.js",
     "service-worker.js": "/vtuberhome/service-worker.js",
     "static/css/main.232343a4.chunk.css.map": "/vtuberhome/static/css/main.232343a4.chunk.css.map",
     "static/js/2.ff005e14.chunk.js.LICENSE.txt": "/vtuberhome/static/js/2.ff005e14.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.a4a38c0e.js",
     "static/js/2.ff005e14.chunk.js",
     "static/css/main.232343a4.chunk.css",
-    "static/js/main.f4412080.chunk.js"
+    "static/js/main.b5d76584.chunk.js"
   ]
 }
